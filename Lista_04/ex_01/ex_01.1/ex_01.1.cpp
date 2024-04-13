@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 int main()
@@ -13,6 +12,6 @@ int main()
         c = c - 1;
         
     }
-    cout << m;
+    cout << "o fatorial é igual a: " << m;
     return 0;
 }
